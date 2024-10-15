@@ -1,0 +1,24 @@
+# Ignore Visual Studio temporary files, build results, and
+# build directories
+bin/
+obj/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ncrunchsolution
+*.ncrunchproject
+*.vscode/
+**/packages/*
+
+# ASP.NET files
+*.log
+*.cache
+*.outputcache
+*.log
+App_Data/
+App_Data/*
+
+# Entity Framework Migrations
+Migrations/
