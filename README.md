@@ -15,5 +15,5 @@ The E-Library Management System is a web-based platform designed to help users e
 
   Backend: ASP.NET
   Frontend: HTML, CSS, JavaScript, jQuery
-  Database: SQL Server
+  Database: MsSQL Server
   Payment Gateway: Razorpay
