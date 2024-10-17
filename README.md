@@ -13,7 +13,7 @@ The E-Library Management System is a web-based platform designed to help users e
 
 ==>Technologies Used:
 
-  Backend: ASP.NET
-  Frontend: HTML, CSS, JavaScript, jQuery
-  Database: MsSQL Server
-  Payment Gateway: Razorpay
+  * Backend: ASP.NET
+  * Frontend: HTML, CSS, JavaScript, jQuery
+ * Database: MsSQL Server (SSMS)
+  * Payment Gateway: Razorpay
